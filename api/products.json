@@ -1,0 +1,34 @@
+{
+    "bikes": [
+        {
+            "id": 1,
+            "bikeName": "ROOK ONE MATT BLACK",
+            "size": "Small 50cm",
+            "img": "https://cdn.shopify.com/s/files/1/1816/5035/products/Rook_one_black_07_940x.jpg?v=1498480065"
+        },
+        {
+            "id": 2,
+            "bikeName": "ROOK ONE ICE WHITE",
+            "size": "Small 50cm",
+            "img": "https://cdn.shopify.com/s/files/1/1816/5035/products/Rook_One_white_07_updated_940x.jpg?v=1512642616"
+        },
+        {
+            "id": 3,
+            "bikeName": "ROOK ONE THE EMERALD",
+            "size": "Small 50cm",
+            "img": "https://cdn.shopify.com/s/files/1/1816/5035/products/80523D4C-4032-4172-90A6-75F02096ED0E_940x.jpg?v=1642689808"
+        },
+        {
+            "id": 4,
+            "bikeName": "ROOK ONE BULLET SILVER",
+            "size": "Small 50cm",
+            "img": "https://cdn.shopify.com/s/files/1/1816/5035/products/1A610446-D36A-4E07-B47E-4580AFB95672_940x.jpg?v=1642689670"
+        },
+        {
+            "id": 5,
+            "bikeName": "ROOK ONE COPPER SUNSET",
+            "size": "Small 50cm",
+            "img": "https://cdn.shopify.com/s/files/1/1816/5035/products/B9046008-47D8-4119-9650-A90AA8CE371E_940x.jpg?v=1642689766"
+        }
+    ]
+}
